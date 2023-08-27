@@ -1,2 +1,2 @@
-# flask-demo-mz
-Sample flask app
+# demo_app
+demo app
